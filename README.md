@@ -23,7 +23,11 @@ My setup consists of:
 - i use the default wsl 2 terminal for my works i rarly use windows powershell or cmd line
 - i use opacity around 75%
 - https://github.com/microsoft/WSL2-Linux-Kernel
-  #tiling manager
+- <p align="center">
+  <img src="assets/Screenshot3 .png" width="800"/>
+</p>
+
+  # tiling manager
   - glazewm with a little customization of edeges but till now mainly defaults i used
   - (https://github.com/glzr-io/glazewm)
     
