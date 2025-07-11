@@ -30,7 +30,7 @@ My setup consists of:
     - <p align="center">
   <img src="assets/taskbar.png" width="800"/>
 </p>
-#chocolaty
+##chocolaty
 - package manager only use for downloading windows compitable apis
 - https://github.com/chocolatey/choco
 - otherwise use sudo
