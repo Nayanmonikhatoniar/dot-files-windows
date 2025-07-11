@@ -5,6 +5,10 @@ all custome configs -->windows 11(23H2){wsl 2 with debian 12} with glazewm
   <img src="assets/Screenshot45.png" width="800"/>
 </p>
 
+<p align="center">
+  <img src="assets/Screenshot466.png" width="800"/>
+</p>
+
 
 
 
