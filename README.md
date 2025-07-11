@@ -5,6 +5,10 @@ all custome configs -->windows 11(23H2){wsl 2 with debian 12} with glazewm
   <img src="assets/Screenshot.png" width="800"/>
 </p>
 
+<p align="center">
+  <img src="assets/Screenshot2.png" width="800"/>
+</p>
+
 
 # Dotfiles
 
@@ -37,6 +41,12 @@ My setup consists of:
 - otherwise use sudo
 # Neovim
 - https://neovim.io/
+
+# Extras
+- wallpapers
+- <p align="center">
+  <img src="assets/.png" width="800"/>
+</p>
 
   
 
