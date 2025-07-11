@@ -24,7 +24,7 @@ My setup consists of:
 - [Neovim](https://neovim.io/) + [vim-plug](https://github.com/junegunn/vim-plug)
 
   # Terminal
-- i use the default wsl 2 terminal for my works i rarly use windows powershell or cmd line
+- i use the  wsl 2 terminal for my works (with a custom config for neofeth) i rarly use windows powershell or cmd line
 - i use opacity around 75%
 - https://github.com/microsoft/WSL2-Linux-Kernel
 - <p align="center">
