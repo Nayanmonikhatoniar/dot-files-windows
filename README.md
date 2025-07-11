@@ -32,8 +32,9 @@ My setup consists of:
   - (https://github.com/glzr-io/glazewm)
     
    # Taskbar
-    - [starallblack](https://www.startallback.com){i use star all black with windows 11 options)
-    - <p align="center">
+  - [starallblack](https://www.startallback.com){i use star all black with windows 11 options)
+    
+  - <p align="center">
   <img src="assets/taskbar.png" width="800"/>
 </p>
 
