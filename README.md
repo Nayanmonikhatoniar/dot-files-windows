@@ -24,7 +24,7 @@ My setup consists of:
 - i use opacity around 75%
 - https://github.com/microsoft/WSL2-Linux-Kernel
 - <p align="center">
-  <img src="assets/Screenshot3 .png" width="800"/>
+  <img src="assets/Screenshot3.png" width="800"/>
 </p>
 
   # tiling manager
