@@ -48,6 +48,8 @@ My setup consists of:
 - otherwise use sudo
 # Neovim
 - https://neovim.io/
+- ## vim pluggins
+- https://github.com/junegunn/vim-plug
 
 # Extras
 - wallpapers
