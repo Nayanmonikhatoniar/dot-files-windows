@@ -24,8 +24,8 @@ My setup consists of:
 - [Neovim](https://neovim.io/) + [vim-plug](https://github.com/junegunn/vim-plug)
 
   # Terminal
-- i use the  wsl 2 terminal for my works (with a custom config for neofeth) i rarly use windows powershell or cmd line
-- i use opacity around 75%
+- i use the  wsl 2 terminal for my works (with a custom config for neofetch) i rarly use windows powershell or cmd line
+- i use background image opacity around 8% and overall background opacity around 45%
 - https://github.com/microsoft/WSL2-Linux-Kernel
 - <p align="center">
   <img src="assets/Screenshot3.png" width="800"/>
