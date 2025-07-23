@@ -22,6 +22,7 @@ My setup consists of:
 - [taskbar](https://www.startallback.com)
 - [chocolaty ](https://github.com/chocolatey/choco)
 - [Neovim](https://neovim.io/) + [vim-plug](https://github.com/junegunn/vim-plug)
+- Zathura
 
   # Terminal
 - i use the  wsl 2 terminal for my works (with a custom config for neofetch) i rarly use windows powershell or cmd line
