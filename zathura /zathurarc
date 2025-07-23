@@ -1,0 +1,19 @@
+# ~/.config/zathura/zathurarc
+
+# BASIC UI
+set font "monospace 10"
+set statusbar-bg "#1e1e2e"
+set statusbar-fg "#cdd6f4"
+set inputbar-bg "#1e1e2e"
+set inputbar-fg "#cdd6f4"
+set default-bg "#1e1e2e"
+set default-fg "#cdd6f4"
+set highlight-color "#f38ba8"
+
+# VIEW
+set adjust-open "best-fit"
+set show-scrollbars false
+
+# ENABLE RECOLOR (after everything)
+set recolor true
+
