@@ -22,6 +22,7 @@ My setup consists of:
 - [taskbar](https://www.startallback.com)
 - [chocolaty ](https://github.com/chocolatey/choco)
 - [Neovim](https://neovim.io/) + [vim-plug](https://github.com/junegunn/vim-plug)
+- [win11 deblotter](https://github.com/Raphire/Win11Debloat)(use at you own risk do  your research before using it)
 - Zathura
 
   # Terminal
